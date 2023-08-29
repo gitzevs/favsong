@@ -1,0 +1,10 @@
+# Folders
+target/
+bin/
+etc/
+
+# Files with extentions
+*.db
+*.log
+*.etc
+*.apk
