@@ -8,3 +8,5 @@ etc/
 *.log
 *.etc
 *.apk
+*.vs
+
