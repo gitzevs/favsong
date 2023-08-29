@@ -2,6 +2,7 @@
 target/
 bin/
 etc/
+*.vs/
 
 # Files with extentions
 *.db
